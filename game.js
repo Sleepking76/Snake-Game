@@ -8,7 +8,7 @@ const gameBoard = document.getElementById('game-board')
 
 function main(currentTime){
  if (gameOver) {
-     return alert ('Kalah Goblok')
+     return alert ('Kalah :))')
  }
 
 
